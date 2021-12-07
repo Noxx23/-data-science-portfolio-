@@ -31,8 +31,8 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
 		- [Stock Market Analysis for Tech Stocks](https://github.com/Noxx23/-data-science-portfolio-/blob/main/Prediction%20Stocks.ipynb): Analysis of technology stocks including change in price over time, daily returns, and stock behaviour prediction.
 		- [Detect Outliers](https://github.com/Noxx23/-data-science-portfolio-/blob/main/D%C3%A9tecter%20les%20valeurs%20aberrantes.ipynb): Detecting the anomalies from multiple dataframes for an online wine merchant.
 		- [Health study - Exploratory Analysis](https://github.com/Noxx23/-data-science-portfolio-/blob/main/Etude%20sous-nutrition.ipynb): Exploratory Data Analysis of FAO (Food and Agriculture Organization of the United Nations) dataset hosted on their website. Undernutrition study. Find the proportion of people undernourished, Find the theoretical number of people who could be fed, Proportion Animal / Human Feed + Global Losses.
-		
-	_Tools: Pandas, Plotly, Seaborn and Matplotlib_
+		- [Access to drinking water](https://public.tableau.com/views/DWFA_darosa_kim_2/HistoireDWFA?:language=fr-FR&publish=yes&:display_count=n&:origin=viz_share_link) : Exploratory Data Analysis of the access to drinking water around the world using Tableau.		
+	_Tools: Pandas, Plotly, Seaborn,Tableau, KNIME and Matplotlib_
 	
 
 - ### Micro Projects: 

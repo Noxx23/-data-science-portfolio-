@@ -28,7 +28,7 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
 - ### Data Analysis and Visualisation
 	- __Python__
 		- [Marketing Analysis](https://github.com/Noxx23/-data-science-portfolio-/blob/main/Data%20Analysis%20Marketing.ipynb): Analysis of the weak and strong points, customers behavior, KPI, etc ... for a large, well-known online generalist bookstore (Lapage).
-		- [Titanic Dataset - Exploratory Analysis](): Exploratory Analysis of the passengers onboard RMS Titanic using Pandas and Seaborn visualisations.
+		- [Titanic Dataset - Exploratory Analysis](https://github.com/Noxx23/-data-science-portfolio-/blob/main/Pre_process_Titanic.ipynb): Exploratory Analysis of the passengers onboard RMS Titanic using Pandas and Seaborn visualisations.
 		- [Stock Market Analysis for Tech Stocks](): Analysis of technology stocks including change in price over time, daily returns, and stock behaviour prediction.
 		- [Detect Outliers](https://github.com/Noxx23/-data-science-portfolio-/blob/main/D%C3%A9tecter%20les%20valeurs%20aberrantes.ipynb): Detecting the anomalies from multiple dataframes for an online wine merchant.
 		- [Health study - Exploratory Analysis](https://github.com/Noxx23/-data-science-portfolio-/blob/main/Etude%20sous-nutrition.ipynb): Exploratory Data Analysis of FAO (Food and Agriculture Organization of the United Nations) dataset hosted on their website. Undernutrition study. Find the proportion of people undernourished, Find the theoretical number of people who could be fed, Proportion Animal / Human Feed + Global Losses.
